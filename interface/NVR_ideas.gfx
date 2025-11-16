@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_NVR_boost"
+		texturefile = "gfx/interface/ideas/idea_NVR_boost.dds"
+	}
+}

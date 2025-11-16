@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_CRI_manpower"
+		texturefile = "gfx/interface/ideas/idea_CRI_manpower.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_CRI_army"
+		texturefile = "gfx/interface/ideas/idea_CRI_army.dds"
+	}
+}

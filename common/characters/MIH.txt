@@ -1,0 +1,86 @@
+characters = {
+	MIH_pavel_gorshkov = {
+		name = MIH_pavel_gorshkov
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = MIH_pavel_gorshkov_hg
+			allowed  = {
+				original_tag  = MIH
+			}
+			traits  = {
+				duke_of_orleans 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	MIH_roman_stalker = {
+		name = MIH_roman_stalker
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = MIH_roman_stalker_hg
+			allowed  = {
+				original_tag  = MIH
+			}
+			traits  = {
+				army_chief_offensive_2 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	MIH_pokrishkin = {
+		name = MIH_pokrishkin
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = air_chief
+			idea_token = MIH_pokrishkin_hg
+			allowed  = {
+				original_tag  = MIH
+			}
+			traits  = {
+				air_chief_safety_2 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	MIH_pidor = {
+		name = MIH_pidor
+		portraits={
+			army={
+				small=""
+			}
+		}
+		advisor={
+			slot = theorist
+			idea_token = MIH_pidor_hg
+			allowed  = {
+					original_tag  = MIH
+				}
+				traits  = {
+					military_theorist 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+}

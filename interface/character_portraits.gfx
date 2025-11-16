@@ -1,0 +1,38 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_gdolf_aitler"
+		texturefile = "gfx\interface\ideas\IVA_gdolf_aitler.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ivanko_mobilizator"
+		texturefile = "gfx\interface\ideas\CRI_ivanko_mobilizator.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_prinz_hohol"
+		texturefile = "gfx\interface\ideas\CRI_prinz_hohol.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_miska_miskovich"
+		texturefile = "gfx\interface\ideas\DIM_miska_miskovich.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_miska_ipuchi"
+		texturefile = "gfx\interface\ideas\DIM_miska_ipuchi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ipuchi"
+		texturefile = "gfx\interface\ideas\DIM_ipuchi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_umhiy_ipuchi"
+		texturefile = "gfx\interface\ideas\DIM_umhiy_ipuchi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_neytral_ipuchi"
+		texturefile = "gfx\interface\ideas\DIM_neytral_ipuchi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_adidas"
+		texturefile = "gfx\interface\ideas\CRI_adidas.dds"
+	}
+}

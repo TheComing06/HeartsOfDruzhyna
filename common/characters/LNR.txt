@@ -1,0 +1,86 @@
+characters = {
+	LNR_yulia_velichko = {
+		name = LNR_yulia_velichko
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = LNR_yulia_velichko_hg
+			allowed  = {
+				original_tag  = LNR
+			}
+			traits  = {
+				duke_of_orleans 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	LNR_mototola = {
+		name = LNR_mototola
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = LNR_mototola_hg
+			allowed  = {
+				original_tag  = LNR
+			}
+			traits  = {
+				army_chief_offensive_2 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	LNR_yuri_garanin = {
+		name = LNR_yuri_garanin
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = air_chief
+			idea_token = LNR_yuri_garanin_hg
+			allowed  = {
+				original_tag  = LNR
+			}
+			traits  = {
+				air_chief_safety_2 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	LNR_andrey_gubanov = {
+		name = LNR_andrey_gubanov
+		portraits={
+			army={
+				small=""
+			}
+		}
+		advisor={
+			slot = theorist
+			idea_token = LNR_andrey_gubanov_hg
+			allowed  = {
+					original_tag  = LNR
+				}
+				traits  = {
+					military_theorist 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+}

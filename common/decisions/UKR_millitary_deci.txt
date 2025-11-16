@@ -1,0 +1,46 @@
+millitary_category = {
+	UKR_attack = {
+		icon = icon
+		available = { tag = UKR }
+		cost = 0
+		fire_only_once = no
+		visible = { 
+			tag = UKR 
+			has_idea = UKR_forts
+		}
+		days_remove = 0
+		days_re_enable = 30
+		remove_effect = {}
+		complete_effect = {
+			add_ideas = {
+				UKR_contrnastup
+			}
+			remove_ideas = {
+				UKR_forts
+			}
+		}		
+		ai_will_do = { factor = 1 }
+	}
+	UKR_defence = {
+		icon = icon
+		available = { tag = UKR }
+		cost = 0
+		fire_only_once = no
+		visible = { 
+			tag = UKR 
+			has_idea = UKR_contrnastup
+		}
+		days_remove = 0
+		days_re_enable = 30
+		remove_effect = {}
+		complete_effect = {
+			add_ideas = {
+				UKR_forts
+			}
+			remove_ideas = {
+				UKR_contrnastup
+			}
+		}		
+		ai_will_do = { factor = 1 }
+	}
+}

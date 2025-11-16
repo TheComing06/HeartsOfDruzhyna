@@ -1,0 +1,28 @@
+ideas = {
+	country = {
+		MIH_zov = {
+			removal_cost = -1
+			
+			allowed = {
+				
+			}
+			available = {
+				has_war_with = SOV
+			}
+			picture = GFX_idea_MIH_zov
+			modifier = {
+				army_defence_factor = 0.4
+				army_attack_factor = 0.4
+				max_planning = 0.2
+				planning_speed = 0.2
+				conscription = 0.025
+				resistance_activity = -0.5
+				compliance_gain = 0.2
+				weekly_casualties_war_support = 0.05
+				war_support_weekly = 0.1
+				stability_weekly = 0.1
+				breakthrough_factor = 0.3
+			}
+		}
+	}
+}

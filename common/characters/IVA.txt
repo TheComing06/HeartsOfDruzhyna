@@ -1,0 +1,107 @@
+characters = {
+	IVA_gdolf_aitler = {
+		name = IVA_gdolf_aitler
+		portraits={
+			army={
+				small="GFX_portrait_gdolf_aitler"
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = IVA_gdolf_aitler_hg
+			allowed  = {
+					original_tag  = IVA
+				}
+				traits  = {
+					army_chief_organizational_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+	IVA_peskar_ivanovich = {
+		name = IVA_peskar_ivanovich
+		portraits={
+			army={
+				small=""
+			}
+		}
+		advisor={
+			slot = navy_chief
+			idea_token = IVA_peskar_ivanovich_hg
+			allowed  = {
+					original_tag  = IVA
+				}
+				traits  = {
+					navy_chief_decisive_battle_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+	IVA_mitay = {
+		name = IVA_mitay
+		portraits={
+			army={
+				small=""
+			}
+		}
+		advisor={
+			slot = air_chief
+			idea_token = IVA_mitay_hg
+			allowed  = {
+					original_tag  = IVA
+				}
+				traits  = {
+					air_chief_safety_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+	IVA_barash = {
+		name = IVA_barash
+		portraits={
+			army={
+				small=""
+			}
+		}
+		advisor={
+			slot = theorist
+			idea_token = IVA_barash_hg
+			allowed  = {
+					original_tag  = IVA
+				}
+				traits  = {
+					military_theorist 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+	IVA_prinz_miha = {
+		name = IVA_prinz_miha
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = IVA_prinz_miha_hg
+			allowed  = {
+				original_tag  = IVA
+			}
+			traits  = {
+				duke_of_orleans 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+}

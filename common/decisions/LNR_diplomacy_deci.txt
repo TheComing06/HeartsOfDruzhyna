@@ -1,0 +1,106 @@
+LNR_diplomacy_category = {
+	LNR_peace_UKR = {
+		icon = icon
+		available = {
+			tag = LNR
+			OR = {
+				controls_state = 226
+				controls_state = 221
+				controls_state = 200
+			}
+			AND = {
+				UKR = {
+					country_exists = UKR
+				}
+			}
+		}
+		cost = 100
+		fire_only_once = yes
+		visible = { 
+			tag = LNR
+			has_war_with = UKR
+		}
+		days_remove = 0
+		remove_effect = {}
+		complete_effect = {
+			white_peace = UKR
+			DNR = {
+				white_peace = UKR
+				add_state_core = 200
+			}
+			add_state_core = 221
+			UKR = {
+				add_timed_idea = {
+					idea = UKR_pozor
+					days = 720
+				}
+				release = HAR
+				release = ZAP
+				release = ODS
+				release = HER
+				release = DPR
+			}
+			puppet = HAR
+			puppet = DPR
+			DNR = {
+				puppet = ODS
+				puppet = HER
+				puppet = ZAP
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+	LNR_annex_HAR = {
+		icon = icon
+		available = {
+			tag = LNR
+			HAR = {
+				country_exists = HAR
+			}
+		}
+		cost = 50
+		fire_only_once = yes
+		visible = { 
+			tag = LNR
+			HAR = {
+				country_exists = HAR
+			}
+		}
+		days_remove = 0
+		remove_effect = {}
+		complete_effect = {
+			annex_country = {
+				target = HAR
+				transfer_troops = no
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+	LNR_annex_DPR = {
+		icon = icon
+		available = {
+			tag = LNR
+			DPR = {
+				country_exists = DPR
+			}
+		}
+		cost = 50
+		fire_only_once = yes
+		visible = { 
+			tag = LNR
+			DPR = {
+				country_exists = DPR
+			}
+		}
+		days_remove = 0
+		remove_effect = {}
+		complete_effect = {
+			annex_country = {
+				target = DPR
+				transfer_troops = no
+			}
+			add_state_core = 226
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

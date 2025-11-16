@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_IVA_manpower"
+		texturefile = "gfx/interface/ideas/idea_IVA_manpower.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_IVA_army"
+		texturefile = "gfx/interface/ideas/idea_IVA_army.dds"
+	}
+}

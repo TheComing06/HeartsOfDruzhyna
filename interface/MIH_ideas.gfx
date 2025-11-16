@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_MIH_zov"
+		texturefile = "gfx/interface/ideas/idea_MIH_zov.dds"
+	}
+}

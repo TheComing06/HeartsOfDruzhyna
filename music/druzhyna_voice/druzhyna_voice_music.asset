@@ -1,0 +1,167 @@
+music = {
+	name = "teplo"
+	file = "maxkorzh_teplo_gachi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bremenskiemuzikanti"
+	file = "muzikants_zov.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "drug"
+	file = "nurminski_drug_gachi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "valim"
+	file = "nurminski_valim_gachi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "fairytale"
+	file = "versice_fairytale.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "moderator"
+	file = "vihor_moderator.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tishluhanemoja"
+	file = "vihor_shuha.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "teshapriehalavgosti"
+	file = "vihor_tosha.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "obossanayatrapka"
+	file = "vihor_trapka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "parovozik"
+	file = "parovozik.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "assnie_dni"
+	file = "assnie_dni.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "assaul"
+	file = "assaul.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "gorodzondbe"
+	file = "gorodzondbe.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bushidozov"
+	file = "bushidozov.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sharik"
+	file = "sharik.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mimi"
+	file = "mimi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "zona"
+	file = "zona.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "svoy_dom"
+	file = "svoy_dom.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "supermarket"
+	file = "supermarket.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "stripuha"
+	file = "stripuha.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "shkola"
+	file = "shkola.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "roblox"
+	file = "roblox.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "maga"
+	file = "maga.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "neo"
+	file = "neo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "believed"
+	file = "believed.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "clubni"
+	file = "clubni.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "filki"
+	file = "filki.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bro"
+	file = "bro.ogg"
+	volume = 0.65
+}

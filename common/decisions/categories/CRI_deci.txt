@@ -1,0 +1,7 @@
+CRI_diplomacy_category = {
+	icon = icon
+	priority = 90
+	allowed = {
+		original_tag = CRI
+	}
+}

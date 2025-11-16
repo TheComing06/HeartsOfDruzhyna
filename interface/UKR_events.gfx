@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_event_UKR_invasion"
+		texturefile = "gfx/event_pictures/event_UKR_invasion.dds"
+	}
+}

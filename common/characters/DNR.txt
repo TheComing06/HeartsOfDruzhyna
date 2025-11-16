@@ -1,0 +1,86 @@
+characters = {
+	DNR_kirill_makarov = {
+		name = DNR_kirill_makarov
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = DNR_kirill_makarov_hg
+			allowed  = {
+				original_tag  = DNR
+			}
+			traits  = {
+				duke_of_orleans 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	DNR_givi = {
+		name = DNR_givi
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = DNR_givi_hg
+			allowed  = {
+				original_tag  = DNR
+			}
+			traits  = {
+				army_chief_offensive_2 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	DNR_eduard_basurin = {
+		name = DNR_eduard_basurin
+		portraits={
+			civillian={
+				small=""
+			}
+		}
+		advisor={
+			slot = air_chief
+			idea_token = DNR_eduard_basurin_hg
+			allowed  = {
+				original_tag  = DNR
+			}
+			traits  = {
+				air_chief_safety_2 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	DNR_evgeniy_kucherenko = {
+		name = DNR_evgeniy_kucherenko
+		portraits={
+			army={
+				small=""
+			}
+		}
+		advisor={
+			slot = theorist
+			idea_token = DNR_evgeniy_kucherenko_hg
+			allowed  = {
+					original_tag  = DNR
+				}
+				traits  = {
+					military_theorist 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+}

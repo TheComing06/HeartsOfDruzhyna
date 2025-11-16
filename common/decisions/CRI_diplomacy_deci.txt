@@ -1,0 +1,70 @@
+CRI_diplomacy_category = {
+	CRI_claim_ter = {
+		icon = icon
+		available = {
+			tag = CRI
+			controls_state = 200
+			controls_state = 197
+			controls_state = 226
+			controls_state = 227
+			controls_state = 228
+			controls_state = 221
+			controls_state = 259
+			controls_state = 225
+			controls_state = 193
+			controls_state = 203
+			controls_state = 202
+			controls_state = 218
+			controls_state = 245
+			controls_state = 238
+			controls_state = 234
+			controls_state = 235
+			controls_state = 233
+			controls_state = 237
+			controls_state = 232
+			controls_state = 821
+			controls_state = 828
+			controls_state = 827
+			controls_state = 826
+			controls_state = 231
+			controls_state = 229
+			controls_state = 230
+		}
+		cost = 50
+		fire_only_once = yes
+		visible = { 
+			tag = CRI
+		}
+		days_remove = 0
+		remove_effect = {}
+		complete_effect = {
+			add_state_core = 200
+			add_state_core = 197
+			add_state_core = 226
+			add_state_core = 227
+			add_state_core = 228
+			add_state_core = 221
+			add_state_core = 259
+			add_state_core = 225
+			add_state_core = 193
+			add_state_core = 203
+			add_state_core = 202
+			add_state_core = 218
+			add_state_core = 245
+			add_state_core = 238
+			add_state_core = 234
+			add_state_core = 235
+			add_state_core = 233
+			add_state_core = 237
+			add_state_core = 232
+			add_state_core = 821
+			add_state_core = 828
+			add_state_core = 827
+			add_state_core = 826
+			add_state_core = 231
+			add_state_core = 229
+			add_state_core = 230
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_event_MIH_offensive_sov"
+		texturefile = "gfx/event_pictures/report_event_SOV_military_offensive.dds"
+	}
+}

@@ -1,0 +1,107 @@
+characters = {
+	DIM_miska_miskovich = {
+		name = DIM_miska_miskovich
+		portraits={
+			army={
+				small="GFX_portrait_miska_miskovich"
+			}
+		}
+		advisor={
+			slot = army_chief
+			idea_token = DIM_miska_miskovich_hg
+			allowed  = {
+					original_tag  = DIM
+				}
+				traits  = {
+					army_chief_offensive_3 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+	DIM_miska_ipuchi = {
+		name = DIM_miska_ipuchi
+		portraits={
+			army={
+				small="GFX_portrait_miska_ipuchi"
+			}
+		}
+		advisor={
+			slot = navy_chief
+			idea_token = DIM_miska_ipuchi_hg
+			allowed  = {
+					original_tag  = DIM
+				}
+				traits  = {
+					navy_chief_decisive_battle_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+	DIM_ipuchi = {
+		name = DIM_ipuchi
+		portraits={
+			army={
+				small="GFX_portrait_ipuchi"
+			}
+		}
+		advisor={
+			slot = air_chief
+			idea_token = DIM_ipuchi_hg
+			allowed  = {
+					original_tag  = DIM
+				}
+				traits  = {
+					air_chief_safety_2 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+	DIM_umhiy_ipuchi = {
+		name = DIM_umhiy_ipuchi
+		portraits={
+			army={
+				small="GFX_portrait_umhiy_ipuchi"
+			}
+		}
+		advisor={
+			slot = theorist
+			idea_token = DIM_umhiy_ipuchi_hg
+			allowed  = {
+					original_tag  = DIM
+				}
+				traits  = {
+					military_theorist 
+				}
+				ai_will_do  = {
+					factor  = 1.000
+				}
+		}
+	}
+	DIM_neytral_ipuchi = {
+		name = DIM_neytral_ipuchi
+		portraits={
+			civilian={
+				small="GFX_portrait_neytral_ipuchi"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = DIM_neytral_ipuchi_hg
+			allowed  = {
+				original_tag  = DIM
+			}
+			traits  = {
+				duke_of_orleans 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+}

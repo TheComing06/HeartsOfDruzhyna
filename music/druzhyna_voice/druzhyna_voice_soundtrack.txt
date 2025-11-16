@@ -1,0 +1,197 @@
+music_station = "druzhyna_voice" 
+
+music = { 
+	song = "teplo"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "bremenskiemuzikanti"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "drug"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "valim"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "fairytale"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "moderator"
+	chance = {
+		modifier = { factor = 1 }
+	}	
+}
+
+music = { 
+	song = "tishluhanemoja"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "teshapriehalavgosti"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "obossanayatrapka"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "parovozik"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "assnie_dni"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "assaul"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "gorodzondbe"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "bushidozov"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "sharik"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "mimi"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "zona"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "svoy_dom"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "supermarket"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "stripuha"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "shkola"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "roblox"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "maga"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "neo"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "believed"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "clubni"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "filki"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}
+
+music = { 
+	song = "bro"
+	chance = {
+		modifier = { factor = 1 }
+	}
+}

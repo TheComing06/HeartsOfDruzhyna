@@ -1,0 +1,18 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_UKR_tsk"
+		texturefile = "gfx/interface/ideas/idea_UKR_tsk.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_UKR_forts"
+		texturefile = "gfx/interface/ideas/generic_wall_line.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_UKR_contrnastup"
+		texturefile = "gfx/interface/ideas/idea_generic_purge.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_UKR_pozor"
+		texturefile = "gfx/interface/ideas/idea_UKR_pozor.dds"
+	}
+}

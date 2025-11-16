@@ -1,0 +1,65 @@
+characters = {
+	CRI_prinz_hohol = {
+		name = CRI_prinz_hohol
+		portraits={
+			civilian={
+				small="GFX_portrait_prinz_hohol"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = CRI_prinz_hohol_hg
+			allowed  = {
+				original_tag  = CRI
+			}
+			traits  = {
+				duke_of_orleans 
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	CRI_ivanko_mobilizator = {
+		name = CRI_ivanko_mobilizator
+		portraits={
+			civilian={
+				small="GFX_portrait_ivanko_mobilizator"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = CRI_ivanko_mobilizator_hg
+			allowed  = {
+				original_tag  = CRI
+			}
+			traits  = {
+				ivanko_mobilizator
+			}
+			ai_will_do  = {
+				factor  = 1.000
+			}
+		}
+	}
+	CRI_adidas_neo = {
+		name = CRI_adidas_neo
+		portraits = {
+			civilian = {
+				small="GFX_portrait_adidas"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = CRI_adidas_neo_hg
+			allowed = {
+				original_tag = CRI
+			}
+			traits = {
+				cri_adidas
+			}
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+}

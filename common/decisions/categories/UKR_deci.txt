@@ -1,0 +1,7 @@
+millitary_category = {
+	icon = icon
+	priority = 90
+	allowed = {
+		original_tag = UKR
+	}
+}
