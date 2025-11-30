@@ -2,7 +2,7 @@ IVA_diplomacy_category = {
 	
 }
 
-IVA_formable_category = {
+hod_formable_category = {
 	IVA_claim_europe = {
 		icon = icon
 		available = {
@@ -47,7 +47,8 @@ IVA_formable_category = {
 		visible = { tag = IVA }
 		days_remove = 0
 		remove_effect = {}
-		complete_effect = 
+		complete_effect = {
+			set_cosmetic_tag = IVA_empire
 			custom_effect_tooltip = IVA_form_country_effect
 			hidden_effect = {
 				add_state_core = 211
