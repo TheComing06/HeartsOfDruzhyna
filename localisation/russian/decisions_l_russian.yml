@@ -285,6 +285,8 @@
  IVA_claim_europe: "Воссоединение Цыган"
  IVA_claim_europe_desc: "Восстановление Великой Империи."
  
+ hod_formable_category: "Внешне-политические решения"
+ 
  CRI_diplomacy_category: "Дипломатические решения"
  CRI_claim_ter: "Великий Крым!"
  CRI_claim_ter_desc: "Мы освободили много земли - пора её национализировать."
