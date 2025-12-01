@@ -8,5 +8,5 @@ tags={
 }
 name="Hearts of Druzhyna"
 picture="thumbnail.png"
-supported_version="1.16.10"
+supported_version="1.17.1.1"
 remote_file_id="3400152358"
